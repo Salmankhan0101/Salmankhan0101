@@ -1,3 +1,4 @@
+![logo](https://github.com/Salmankhan0101/Salmankhan0101/blob/main/AAAAAAA.png)
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
 <img align="Middle"alt="coding"width="400"src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNxcW15aHRnNzFiend3dW5kZ2doZWQ3N3lyZGZwYzZsbGl3MmF1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif>
