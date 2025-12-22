@@ -21,7 +21,7 @@
 - 🔍 Passionate about converting raw data into meaningful insights.
 - 📚 Continuously learning new technologies and improving problem-solving skills.
 - 🤝 Open to internships, projects, and collaborative opportunities
-- 📫 How to reach me *nihal.kr0227@gmail.com*
+- 📫 How to reach me *salmaankhan1656@gmail.com*
 
 ## 🌐 Connect me:
 
