@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Nihal%20ab.gif" />
+  <>
 
 
 
