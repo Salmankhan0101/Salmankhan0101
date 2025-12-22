@@ -1,28 +1,73 @@
-![logo](https://github.com/Salmankhan0101/Salmankhan0101/blob/main/AAAAAAA.png)
-<h1 align="center">Hi 👋, I'm Salman khan</h1>
-<h3 align="center">A passionate Data science student from India</h3>
-<img align="Middle"alt="coding"width="400"src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNxcW15aHRnNzFiend3dW5kZ2doZWQ3N3lyZGZwYzZsbGl3MmF1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif>
+<p align="center">
+  <img src="https://github.com/Nihal-Kushwaha/Nihal-Kushwaha/blob/main/Nihal%20ab.gif" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmankhan0101&label=Profile%20views&color=0e75b6&style=flat" alt="salmankhan0101" /> </p>
 
-- 🌱 I’m currently learning **Data science**
 
-- 🤝 I’m looking for help with **python + Data Analysis project**
+<img
+  align="right"
+  alt="coding"
+  width="375"
+  src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"
+/>
 
-- ⚡ Fun fact **i think i am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/salmaankhan1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salmaankhan1234" height="30" width="40" /></a>
-<a href="https://instagram.com/s_a_l_m_a_n_____k_h_a_n_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_l_m_a_n_____k_h_a_n_" height="30" width="40" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="nihal-kushwaha" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+# 💫 About Me:
+- 🌱 I’m currently learning *Data Science*.
+- 💻 Learning and applying Python, Statistics, and Data Science fundamentals.
+- 🛠️ Worked with tools like *Pandas, **NumPy, **Matplotlib, and **Seaborn*.
+- 🔍 Passionate about converting raw data into meaningful insights.
+- 📚 Continuously learning new technologies and improving problem-solving skills.
+- 🤝 Open to internships, projects, and collaborative opportunities
+- 📫 How to reach me *nihal.kr0227@gmail.com*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmankhan0101&show_icons=true&locale=en&layout=compact" alt="salmankhan0101" /></p>
+## 🌐 Connect me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmankhan0101&show_icons=true&locale=en" alt="salmankhan0101" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-kushwaha-2b48a3312/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Nihalku02520085)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nihalkushwaha9533)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nihal.kr0227@gmail.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmankhan0101&" alt="salmankhan0101" /></p>
+
+# 💻 *Tech Stack*
+
+## 🐍 *Programming & Scripting*
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+---
+
+## 🤖 *Machine Learning & Deep Learning*
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+
+---
+
+## ☁️ *Cloud & Databases*
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=AmazonDynamoDB&logoColor=white)
+
+---
+
+## 📈 *Analytics & Data Visualization*
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
+## 🧰 *Tools & Platforms*
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+
