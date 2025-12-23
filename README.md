@@ -1,4 +1,4 @@
-![logo](https://github.com/Salmankhan0101/Salmankhan0101/blob/main/Screenshot%202025-12-22%20132822.png)
+![logo](https://github.com/Salmankhan0101/Salmankhan0101/blob/main/1111111.png)
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
