@@ -140,12 +140,15 @@
 
 ---
 
-# 📈 Activity Graph
+## 📊 My Skills
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmankhan0101&theme=tokyo-night)
-
----
-
-# ✨ Quote
-
-> "Turning Data Into Insights, Insights Into Impact."
+| Skill | Level |
+|---|---|
+| 🐍 Python | █████████░ 90% |
+| 🗄️ MySQL | █████████░ 90% |
+| 📊 Power BI | ████████░░ 80% |
+| 📈 Tableau | ████████░░ 80% |
+| 🤖 Machine Learning | ████████░░ 80% |
+| ☁️ AWS | ███████░░░ 70% |
+| 🧠 NLP | ██████░░░░ 60% |
+| 🌿 Git & GitHub | ███████░░░ 70% |
