@@ -174,4 +174,6 @@
 | 🧠 NLP | ██████░░░░ 60% |
 | 🌿 Git & GitHub | ███████░░░ 70% |
 
+---
+
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/3dce7091-6013-4adb-ab7b-c3135e118893" />
