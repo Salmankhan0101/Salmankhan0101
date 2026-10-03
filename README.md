@@ -1,15 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:141E30,100:243B55&text=Salman%20Khan&fontSize=60&fontColor=ffffff&desc=Data%20Science%20|%20Machine%20Learning%20|%20Python&descAlignY=65"/>
-</p> 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="150%">
-</p>
-
-
-
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Salman%20Khan&fontSize=65&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20%7C%20ML%20%7C%20Python%20Developer&descAlignY=65"/>
 </p>
 
@@ -20,8 +9,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%">
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
