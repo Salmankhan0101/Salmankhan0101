@@ -99,6 +99,8 @@
 - Analyzed product sales, customer behavior, and revenue metrics.
 - Developed interactive visualizations for decision-making.
 
+# 🤖 Machine Learning Projects ### 👨‍💼 Job Change Prediction - Developed a machine learning model to predict employee job-switching behavior. - Performed data preprocessing, feature engineering, and model evaluation. - Applied Logistic Regression, Random Forest, KNN, and Decision Tree algorithms. - Improved prediction performance using SMOTE for class balancing. - Evaluated models using Accuracy, Precision, Recall, and F1-Score.
+
 ---
 
 # 🏆 Certifications
