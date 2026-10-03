@@ -1,8 +1,6 @@
 ![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Salman%20Khan&fontSize=60&fontColor=ffffff&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=65)
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/3dce7091-6013-4adb-ab7b-c3135e118893" />
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80" width="100%">
-</p>
+![Banner](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200)
 
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
