@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
-</p>
-
-<h1 align="center">Hi 👋, I'm Salman Khan</h1>
-<h3 align="center">Data Science Student | Python Developer | ML Enthusiast</h3>
-
-
-
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
