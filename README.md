@@ -77,3 +77,75 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+# 🚀 Projects
+
+## 📊 Data Analysis & Visualization Projects
+
+### 🍕 Pizza Sales Dashboard
+- Built interactive dashboards using Power BI and Tableau.
+- Analyzed sales trends, revenue, order quantity, and customer preferences.
+- Identified top-selling pizzas and peak order periods.
+
+### 🎬 Netflix Movies Analysis
+- Performed exploratory data analysis on Netflix datasets.
+- Visualized trends in genres, ratings, and content releases.
+- Uploaded datasets to AWS S3 for cloud storage practice.
+
+### 📈 Blinkit Sales Dashboard
+- Created business intelligence dashboards.
+- Analyzed product sales, customer behavior, and revenue metrics.
+- Developed interactive visualizations for decision-making.
+
+---
+
+# 🏆 Certifications
+
+- AWS Cloud Fundamentals
+- Data Science & Machine Learning
+- Python Programming
+- SQL & Database Management
+
+---
+
+# 📚 Currently Learning
+
+- Natural Language Processing (NLP)
+- Deep Learning
+- Generative AI
+- MLOps
+- Advanced Machine Learning
+
+---
+
+# 🎯 Goals for 2027
+
+- Become a Data Scientist / Machine Learning Engineer
+- Build real-world AI projects
+- Contribute to Open Source
+- Gain internship experience
+- Master Cloud Computing and MLOps
+
+---
+
+# 📊 GitHub Stats
+
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmankhan0101&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salmankhan0101&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=salmankhan0101&theme=tokyonight)
+
+---
+
+# 📈 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=salmankhan0101&theme=tokyo-night)
+
+---
+
+# ✨ Quote
+
+> "Turning Data Into Insights, Insights Into Impact."
