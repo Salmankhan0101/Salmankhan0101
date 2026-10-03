@@ -99,7 +99,26 @@
 - Analyzed product sales, customer behavior, and revenue metrics.
 - Developed interactive visualizations for decision-making.
 
-# 🤖 Machine Learning Projects ### 👨‍💼 Job Change Prediction - Developed a machine learning model to predict employee job-switching behavior. - Performed data preprocessing, feature engineering, and model evaluation. - Applied Logistic Regression, Random Forest, KNN, and Decision Tree algorithms. - Improved prediction performance using SMOTE for class balancing. - Evaluated models using Accuracy, Precision, Recall, and F1-Score.
+## 🤖 Machine Learning Projects
+
+### 👨‍💼 Job Change Prediction
+- Developed a machine learning model to predict employee job-switching behavior.
+- Performed data preprocessing, feature engineering, and model evaluation.
+- Applied Logistic Regression, Random Forest, KNN, and Decision Tree algorithms.
+- Improved prediction performance using SMOTE for class balancing.
+- Evaluated models using Accuracy, Precision, Recall, and F1-Score.
+
+### 🏠 House Price Prediction
+- Built a regression model to estimate house prices based on property features.
+- Conducted data cleaning, feature selection, and exploratory data analysis.
+- Applied Linear Regression, Random Forest Regressor, and XGBoost.
+- Evaluated model performance using MAE, MSE, RMSE, and R² Score.
+- 
+### 💳 Loan Delinquency Prediction
+- Developed a predictive model to identify customers likely to default on loan payments.
+- Analyzed customer credit history and financial indicators.
+- Applied classification algorithms and feature importance techniques.
+- Improved risk assessment and decision-making processes.
 
 ---
 
