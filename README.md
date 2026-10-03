@@ -1,5 +1,7 @@
 <img width="1000" height="300" alt="image" src="https://github.com/user-attachments/assets/3dce7091-6013-4adb-ab7b-c3135e118893" />
-<![Coding Analytics](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1600)>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
 <h3 align="center">A passionate Data science student from India</h3>
