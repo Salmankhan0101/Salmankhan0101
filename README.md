@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Salman%20Khan&fontSize=60&fontColor=ffffff&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=65)
+![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Salman%20Khan&fontSize=60&fontColor=ffffff&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=65)
 ![Coding Analytics](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1600)
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
