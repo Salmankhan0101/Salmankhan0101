@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/salmankhan/MyPortfolio/main/images/github-banner.png" width="100%">
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/images/github-banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Salman khan</h1>
