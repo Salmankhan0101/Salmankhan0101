@@ -120,7 +120,7 @@
 
 ---
 
-# 🎯 Goals for 2027
+# 🎯 Goals for 2028
 
 - Become a Data Scientist / Machine Learning Engineer
 - Build real-world AI projects
