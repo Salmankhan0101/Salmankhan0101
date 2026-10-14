@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Data+Science+Student;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Future+Data+Scientist" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%">
 </p>
 
