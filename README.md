@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Salman%20Khan&fontSize=65&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20%7C%20ML%20%7C%20Python%20Developer&descAlignY=65"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;Data+Science+Student;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Enthusiast;Future+Data+Scientist" />
 </p>
 
 <p align="center">
