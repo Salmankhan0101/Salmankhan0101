@@ -122,7 +122,7 @@
 - Conducted data cleaning, feature selection, and exploratory data analysis.
 - Applied Linear Regression, Random Forest Regressor, and XGBoost.
 - Evaluated model performance using MAE, MSE, RMSE, and R² Score.
-- 
+  
 ### 💳 Loan Delinquency Prediction
 - Developed a predictive model to identify customers likely to default on loan payments.
 - Analyzed customer credit history and financial indicators.
@@ -132,11 +132,7 @@
 ---
 
 # 🏆 Certifications
-
-- AWS Cloud Fundamentals
-- Data Science & Machine Learning
-- Python Programming
-- SQL & Database Management
+- MongoDB Certification
 
 ---
 
